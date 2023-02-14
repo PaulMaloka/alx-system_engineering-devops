@@ -1,2 +1,2 @@
 #!/bin/bash
-echo usr/*/action
+find / -type d -name "action"
